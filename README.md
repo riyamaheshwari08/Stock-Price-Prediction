@@ -1,2 +1,2 @@
 # Stock-Price-Prediction
-The project aims to identify key trends and patterns in pizza sales to improve business performance and customer satisfaction. 
+Developed predictive models for Hindustan Unilever stock price trends using machine learning algorithms (Logistic Regression, SVM, XGBoost) and time series models (ARIMA, Auto ARIMA).Cleaned and preprocessed data, handling missing values and normalizing features to improve model performance.Visualized stock price trends to identify key patterns and improve predictive accuracy.
