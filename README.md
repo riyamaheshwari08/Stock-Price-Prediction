@@ -13,3 +13,5 @@ Close: The final price at which a stock trades during a trading day.
 Volume: The total number of shares of a stock traded during a trading day.
 
 Adj Close: The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting.
+
+VWAP: Volume-Weighted Moving Average Price (VWAP) is a trading benchmark that calculates the average price of a security, weighted by volume, over time.
